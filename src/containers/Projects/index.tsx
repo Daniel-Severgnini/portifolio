@@ -1,6 +1,6 @@
 import Project from '../../components/Project'
 import Tittle from '../../components/tittle'
-import { List } from './styled'
+import { List } from './styles'
 
 const Projects = () => (
   <section>
